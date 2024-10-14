@@ -1,4 +1,4 @@
-# ContentDecryptionModule
+Content Decryption
 
 # Before instalation
 
@@ -22,3 +22,5 @@ systemctl restart nginx
 # After instalation you need to execute
 chmod -R 777 /home/onestream/iptv/packages/1s-extra/contentdecryption/bin/
 chmod -R 777  /home/onestream/iptv/packages/1s-extra/contentdecryption/storage/
+
+
